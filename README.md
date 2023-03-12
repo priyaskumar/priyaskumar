@@ -7,23 +7,24 @@ Hello! I'm Priyanka
 ==
 
 - A pre-final year student in Coimbatore Institute of Technology, pursuing Computer Science and Engineering. 
-- An avid competitive programmer
-- A problem solving enthusiast 
-- Interested in exploring emerging technologies
-- I’m looking to collaborate with Developers
-- I love challenging myself every day ! 
+- An avid competitive programmer.
+- A problem solving enthusiast. 
+- Interested in exploring emerging technologies.
+- I’m looking to collaborate with Developers.
+- I love challenging myself every day! 
 
 Skills
 ==
 - Languages : Python, C++, C, Java
-- Frameworks : Django, Flask, Flutter, FastAPI, PyTest, Tailwindcss, Bootstrap
-- Tools : HTML, Heroku, Docker, Postman, Selenium, Git, GitHub, MySQL, PostgreSQL
+- Frontend Tools : HTML, Tailwindcss, Bootstrap, React
+- Backend Tools : Django, Flask, FastAPI, MySQL, PostgreSQL, Sanity
+- Testing and Deployment Tools : Heroku, Docker, Postman, Selenium, PyTest, Git, GitHub
 - Platforms : Windows, Linux, AWS
 
 Areas of Interest
 ==
 - Competitive Programming
-- Data Structures & Algorithm
+- Full Stack Development
 
 Certifications
 ==
