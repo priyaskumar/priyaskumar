@@ -6,12 +6,11 @@
 Hello! I'm Priyanka
 ==
 
-- A pre-final year student in Coimbatore Institute of Technology, pursuing Computer Science and Engineering. 
-- An avid competitive programmer.
-- A problem solving enthusiast. 
-- Interested in exploring emerging technologies.
-- I’m looking to collaborate with Developers.
-- I love challenging myself every day! 
+- Member, Tech in D.E. Shaw 
+- Undergraduate in Computer Science and Engineering
+- I'm a problem solving enthusiast and an avid competitive programmer
+- I'm interested in Full Stack
+- I love challenging myself every day ! 
 
 Skills
 ==
@@ -34,7 +33,7 @@ Certifications
 
 Contact Me
 ==
-- You can reach me @ priyankaskumar03@gmail.com
+- You can reach me @ priyankaskumar29@gmail.com
 - More info in my [LinkedIn](https://www.linkedin.com/in/priyanka-saravanakumar)
 
 My Stats 
